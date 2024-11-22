@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Aashiq</h1>
-<h3 align="center">A passionate software developer and AI Enthusiast</h3>
+<h3 align="center">A passionate software developer and AI enthusiast</h3>
 
 ---
 
