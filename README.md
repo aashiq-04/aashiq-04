@@ -51,7 +51,7 @@
   <a href="https://linkedin.com/in/mohammed-aashiq" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://leetcode.com/aashiq-04" target="_blank" rel="noreferrer">
+  <a href="https://leetcode.com/aashiq_04" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
   </a>
   <a href="mailto:mohd04aashiq@gmail.com" target="_blank" rel="noreferrer">
