@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Aashiq</h1>
+<h1 align="center">Hi 👋, I'm MOHAMMED AASHIQ </h1>
 <h3 align="center">A passionate software developer and AI enthusiast</h3>
 
 ---
