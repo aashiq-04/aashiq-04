@@ -46,7 +46,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mohammed-aashiq" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
